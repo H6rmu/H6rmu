@@ -1,16 +1,13 @@
 ## Hi there 👋
 
-<!--
-**H6rmu/H6rmu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm H6rmu, a software developer from Morocco.
+I build desktop applications, game tools (Cheats), with modern interfaces and clean design.
+I enjoy turning ideas into real projects, 
+My main tech stack is C++, C#, Python, I also enjoy designing tools .
+Most of my work revolves around Windows development, overlays, authentication systems, and custom UI frameworks .
+I'm always experimenting with new technologies, improving my skills, and creating projects .
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Fun Facts:
+    • 🎨 I love designing clean UIs,
+    • 🎮 I love Gaming and anime,
+    • 🚀 Always building something new
