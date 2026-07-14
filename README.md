@@ -6,8 +6,3 @@ I enjoy turning ideas into real projects,
 My main tech stack is C++, C#, Python, I also enjoy designing tools .
 Most of my work revolves around Windows development, overlays, authentication systems, and custom UI frameworks .
 I'm always experimenting with new technologies, improving my skills, and creating projects .
-
-Fun Facts:
-    • 🎨 I love designing clean UIs,
-    • 🎮 I love Gaming and anime,
-    • 🚀 Always building something new
